@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p, ol, ol, li, em, i, strong, mark, a{
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background-color: rgb(235, 233, 233);
+  padding-top: 50px;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  background-color: rgb(235, 233, 233);
+}
+
+.header {
+  background-color: rgb(235, 233, 233);
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.header-left {
+display: flex;
+}
+
+.logo-site {
+
+}
+
+.main-site {
+  font-size: 30px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  color: rgb(31, 31, 160);
+  background-color: #fff;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.currency {
+  margin-top: 7px;
+  margin-left: 30px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  /* opacity: 60%; */
+}
+
+.currency-logo {
+  color: rgb(31, 31, 160);
+  margin-right: 5px;
+}
+
+.header-right {
+  border-radius: 5px;
+  padding: 5px;
+  height: 40px;
+  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.link-telegram {
+}
+
+.telegram-logo {
+  width: 20px;
+  height: 20px;
+  border-radius: 70%;
+  background-color: #fff;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.info-telegram {
+  text-decoration: none;
+  color: white;
+}
+
+
+/* hiro section */
+
+.hiro {
+  background-color: #fff;
+  margin-bottom: 30px;
+  padding: 25px;
+}
+
+.lists {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+.link {
+  margin-right: 20px;
+}
+
+.hiro-site {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+
+/* info sectin */
+
+.info {
+
+}
+
+.reklama {
+
+}
